@@ -22,8 +22,8 @@ Below is the table of test cases covered in this Selenium automation suite:
 | TC01         | Login functionality  | `test_login()`             | Active                     | Pass                      |
 | TC02         | Change Password      | `test_change_password()`   | Active                     | Pass                      |
 | TC03         | Posting a test       | `test_posting()`           | Active                     | Pass                      |
-| TC04         | Search for companies | `test_search_company()`    | Active                     | Pass                      |
-| TC05         | Search for jobs      | `test_search_jobs()`       | Active                     | Pass                      |
+| TC04         | Search for templates | `test_search_templates()`  | Active                     | Pass                      |
+| TC05         | download_template    | `download_template`        | Active                     | Pass                      |
 
 ## How to Use
 
