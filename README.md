@@ -27,9 +27,9 @@ Below is the table of test cases covered in this Selenium automation suite:
 
 ## How to Use
 
-**Clone the repository**:
+1. **Clone the repository**:
     ```bash
-    git clone https://github.com/Karthik-GigaByte/Canva-Automation-Using-Selenium-Python
+    git clone ["Karthik-GigaByte/python-jupyter-template](https://github.com/Karthik-GigaByte/Canva-Automation-Using-Selenium-Python)
     ```
 
 
