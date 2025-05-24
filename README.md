@@ -27,32 +27,10 @@ Below is the table of test cases covered in this Selenium automation suite:
 
 ## How to Use
 
-1. **Clone the repository**:
+**Clone the repository**:
     ```bash
     git clone https://github.com/Karthik-GigaByte/Canva-Automation-Using-Selenium-Python
     ```
-
-2. **Install the required packages**:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. **Setup the dotenv**:
-    ```bash
-     pip install dotenv
-    ```
-    
-## Demonstration
-
-Here are some animated GIFs showing the tests in action:
-
-### Login Test
-
-![Login Test GIF](path_to_your_gif/login_test.gif)
-
-### Change Password Test
-
-![Change Password GIF](path_to_your_gif/change_password_test.gif)
 
 
 ## License
