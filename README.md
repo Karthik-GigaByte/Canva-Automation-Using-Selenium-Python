@@ -29,7 +29,7 @@ Below is the table of test cases covered in this Selenium automation suite:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/Karthik-GigaByte/Glassdoor-Automation.git
+    git clone https://github.com/Karthik-GigaByte/Canva-Automation-Using-Selenium-Python
     ```
 
 2. **Install the required packages**:
