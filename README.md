@@ -29,7 +29,7 @@ Below is the table of test cases covered in this Selenium automation suite:
 
 1. **Clone the repository**:
     ```bash
-    git clone Karthik-GigaByte/python-jupyter-template](https://github.com/Karthik-GigaByte/Canva-Automation-Using-Selenium-Python
+    git clone https://github.com/Karthik-GigaByte/Canva-Automation-Using-Selenium-Python
     ```
 
 
